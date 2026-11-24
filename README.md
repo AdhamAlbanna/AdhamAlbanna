@@ -40,6 +40,7 @@
 |---|---|
 | [flutter-getx-starter](https://github.com/AdhamAlbanna/flutter-getx-starter) | Scalable Flutter starter: GetX, strict UI/logic split, one network layer, Arabic/English with RTL |
 | [flutter-dart-snippets](https://github.com/AdhamAlbanna/flutter-dart-snippets) | Small, tested Dart techniques: API response parser, retry with backoff, safe cURL logging, validators |
+| [claude-skill-flutter-getx](https://github.com/AdhamAlbanna/claude-skill-flutter-getx) | A Claude skill that teaches Claude my Flutter/GetX architecture, with workflows, templates and a convention auditor |
 | [Warehouse](https://github.com/AdhamAlbanna/Warehouse) | iOS app in Swift 5 for saving items with name, date and photo, using Core Data |
 | [CoreDataProject](https://github.com/AdhamAlbanna/CoreDataProject) | iOS app in Swift that manages students and courses with Core Data |
 | [POPX](https://github.com/AdhamAlbanna/POPX) | iOS social chat app in Swift with Firebase auth and real-time messaging |
