@@ -38,9 +38,11 @@
 
 | Project | Description |
 |---|---|
-| [Warehouse](https://github.com/AdhamAlbanna/Warehouse) | iOS app in Swift 5 for saving items with name, time and photo |
-| [CoreDataProject](https://github.com/AdhamAlbanna/CoreDataProject) | Core Data persistence in Swift |
-| [POPX](https://github.com/AdhamAlbanna/POPX) | iOS app in Swift |
+| [flutter-getx-starter](https://github.com/AdhamAlbanna/flutter-getx-starter) | Scalable Flutter starter: GetX, strict UI/logic split, one network layer, Arabic/English with RTL |
+| [flutter-dart-snippets](https://github.com/AdhamAlbanna/flutter-dart-snippets) | Small, tested Dart techniques: API response parser, retry with backoff, safe cURL logging, validators |
+| [Warehouse](https://github.com/AdhamAlbanna/Warehouse) | iOS app in Swift 5 for saving items with name, date and photo, using Core Data |
+| [CoreDataProject](https://github.com/AdhamAlbanna/CoreDataProject) | iOS app in Swift that manages students and courses with Core Data |
+| [POPX](https://github.com/AdhamAlbanna/POPX) | iOS social chat app in Swift with Firebase auth and real-time messaging |
 
 > Most of my production apps are private client work. Details are available on request.
 
